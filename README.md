@@ -2,7 +2,7 @@ Hi, I'm Siddharth! 🔥
 
 - 🛡 Cybersecurity Enthusiast  
 - 🤖 Studying Cyber-Physical Systems  
-- 🎮 Interested in Emulation & Game Modding  
+- 🎮 Interested in  Game Modding & Machine learning
 - ✍️ Writer on Quora (1.7M+ views)  
 - 🔧 Learning Modding FromSoftware Games & Havok Engine  
 
