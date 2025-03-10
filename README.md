@@ -20,6 +20,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="30" alt="unity logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/c/A8B9CC" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bots" height="30" alt="abbrobotstudio logo"  />
 </div>
 
 ###
@@ -35,6 +41,8 @@
 
 ###
 
-
+<div align="center">
+  <img src="https://profile-counter.glitch.me/mooofin/count.svg?"  />
+</div>
 
 ###
