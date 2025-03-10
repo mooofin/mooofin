@@ -1,5 +1,5 @@
 <h3 align="left">Hi 👋! I'm sid<br>🎓 B.Tech in Cyber Physical Systems<br>🛡️ Aspiring Cybersecurity Gooner<br>🏴‍☠️ Passionate about CTFs, Reverse Engineering<br>🎮 Modding games <br>🛠️ Currently learning  PyTorch</h3>
-
+![sid''s GitHub stats](https://github-readme-stats.vercel.app/api?username=mooofin&show_icons=true&theme=radical)
 ###
 
 <img align="right" height="150" src="https://64.media.tumblr.com/70263b0ea735cdee90e93fa61e3564b1/tumblr_inline_n7kx1oUOmS1sfquyp.gif"  />
@@ -44,5 +44,6 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/mooofin/count.svg?"  />
 </div>
+
 
 ###
