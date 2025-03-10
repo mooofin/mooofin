@@ -35,6 +35,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/mooofin/mooofin/output/snake.svg" alt="Snake animation" />
+
 
 ###
