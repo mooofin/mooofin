@@ -2,12 +2,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mooofin&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-</div>
-
-###
-
 <img align="right" height="150" src="https://64.media.tumblr.com/70263b0ea735cdee90e93fa61e3564b1/tumblr_inline_n7kx1oUOmS1sfquyp.gif"  />
 
 ###
@@ -41,9 +35,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/mooofin/mooofin/output/snake.svg" alt="Snake animation" />
 
 ###
-
