@@ -1,4 +1,4 @@
-<h3 align="left">Hi 👋! I'm sid<br>🎓 B.Tech in Cyber Physical Systems<br>🛡️ Aspiring Cybersecurity Gooner<br>🏴‍☠️ Passionate about CTFs, Reverse Engineering<br>🎮 Modding games <br>🛠️ Currently learning  PyTorch and TensorFlow</h3>
+<h3 align="left">Hi 👋! I'm sid <br>🛡️ Aspiring Cybersecurity Gooner<br>🏴‍☠️ Passionate about CTFs, Reverse Engineering<br>🎮 Modding games <br>🛠️ Currently learning  PyTorch and TensorFlow</h3>
 
 ###
 
