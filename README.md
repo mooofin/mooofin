@@ -1,4 +1,4 @@
-<h3 align="left">Hi 👋! I'm sid <br>🛡️ Aspiring Cybersecurity Gooner<br>🏴‍☠️ Passionate about CTFs, Reverse Engineering<br>🎮 Modding games <br>
+<h3 align="left">Hi 👋! I'm sid <br>🛡️ Aspiring Cybersecurity noob<br>🏴‍☠️ Passionate about CTFs, Reverse Engineering<br>🎮 Modding games <br>
 
 ###
 
