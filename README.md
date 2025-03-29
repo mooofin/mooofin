@@ -62,7 +62,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/mooofin/EldenRingStutterFix/assets/er.png" width="300px">
+      <img src="https://github.com/mooofin/EldenRingStutterFix/blob/main/assets/er.png?raw=true" width="300px">
       <br>
       <a href="https://github.com/mooofin/EldenRingStutterFix"><b>EldenRingStutterFix</b></a>
       <br>
