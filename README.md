@@ -41,15 +41,44 @@
 
 ###
 
+# 🌊 My Projects
 
-</div>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/mooofin/God-of-War-Ragnarok/assets/goww.png" width="300px">
+      <br>
+      <a href="https://github.com/mooofin/God-of-War-Ragnarok"><b>God-of-War-Ragnarok</b></a>
+      <br>
+      Cheat Engine Scripts & Tools for modifying the single-player experience.
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/mooofin/DS_AnorLondoLightFix/assests/ds.jpg" width="300px">
+      <br>
+      <a href="https://github.com/mooofin/DS_AnorLondoLightFix"><b>DS_AnorLondoLightFix</b></a>
+      <br>
+      A mod to restore and enhance the lighting in Anor Londo.
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/mooofin/EldenRingStutterFix/assets/er.png" width="300px">
+      <br>
+      <a href="https://github.com/mooofin/EldenRingStutterFix"><b>EldenRingStutterFix</b></a>
+      <br>
+      A Python-based fix for Elden Ring stuttering by optimizing CPU affinity.
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/mooofin/KNN-DiagnosisModel/main/images/knn.jpg" width="300px">
+      <br>
+      <a href="https://github.com/mooofin/KNN-DiagnosisModel"><b>KNN-DiagnosisModel</b></a>
+      <br>
+      A K-Nearest Neighbors (KNN) classifier for breast cancer diagnosis.
+    </td>
+  </tr>
+</table>
 
-
-###
-
-
-
-# 📊 GitHub Stats:
+# 🌟 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mooofin&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=mooofin&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mooofin&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
@@ -63,4 +92,3 @@
 ![](https://github-profile-trophy.vercel.app/?username=mooofin&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-
