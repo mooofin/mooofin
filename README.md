@@ -46,14 +46,14 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/mooofin/God-of-War-Ragnarok/assets/goww.png" width="300px">
+      <img src="https://github.com/mooofin/God-of-War-Ragnarok/blob/main/assets/goww.png?raw=true" width="300px">
       <br>
       <a href="https://github.com/mooofin/God-of-War-Ragnarok"><b>God-of-War-Ragnarok</b></a>
       <br>
       Cheat Engine Scripts & Tools for modifying the single-player experience.
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/mooofin/DS_AnorLondoLightFix/assests/ds.jpg" width="300px">
+      <img src="https://github.com/mooofin/DS_AnorLondoLightFix/blob/main/assests/ds.jpg?raw=true" width="300px">
       <br>
       <a href="https://github.com/mooofin/DS_AnorLondoLightFix"><b>DS_AnorLondoLightFix</b></a>
       <br>
