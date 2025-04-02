@@ -69,7 +69,7 @@
       A Python-based fix for Elden Ring stuttering by optimizing CPU affinity.
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/mooofin/KNN-DiagnosisModel/main/images/knn.jpg" width="300px">
+      <img src="https://raw.githubusercontent.com/mooofin/KNN-DiagnosisModel/main/images/knn.png" width="300px">
       <br>
       <a href="https://github.com/mooofin/KNN-DiagnosisModel"><b>KNN-DiagnosisModel</b></a>
       <br>
