@@ -79,13 +79,16 @@
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <img src="https://github.com/mooofin/JuliaScope/main/assets/icon.png?raw=true" width="300px">
-      <br>
-      <a href="https://github.com/mooofin/JuliaScope"><b>JuliaScope</b></a>
-      <br>
-      High-performance multithreaded subdomain enumerator in Julia, leveraging crt.sh for rapid reconnaissance.
-    </td>
+
+  <td align="center">
+    <img src="https://github.com/mooofin/JuliaScope/blob/main/assets/image.png?raw=true" width="300px">
+    <br>
+    <a href="https://github.com/mooofin/JuliaScope"><b>JuliaScope</b></a>
+    <br>
+    High-performance multithreaded subdomain enumerator in Julia, leveraging crt.sh for rapid reconnaissance.
+  </td>
+
+
   </tr>
 </table>
 
