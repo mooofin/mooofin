@@ -80,7 +80,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github.com/mooofin/JuliaScope/assets/image.png?raw=true" width="300px">
+      <img src="https://github.com/mooofin/JuliaScope/main/assets/image.png?raw=true" width="300px">
       <br>
       <a href="https://github.com/mooofin/JuliaScope"><b>JuliaScope</b></a>
       <br>
