@@ -78,6 +78,15 @@
       A K-Nearest Neighbors (KNN) classifier for breast cancer diagnosis.
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/mooofin/JuliaRecon/blob/main/assets/image.png?raw=true" width="300px">
+      <br>
+      <a href="https://github.com/mooofin/JuliaRecon"><b>JuliaRecon</b></a>
+      <br>
+      High-performance multithreaded subdomain enumerator in Julia, leveraging crt.sh for rapid reconnaissance.
+    </td>
+  </tr>
 </table>
 
 # 🌟 GitHub Stats:
@@ -92,5 +101,3 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mooofin&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
