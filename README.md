@@ -82,7 +82,7 @@
     <td align="center">
       <img src="https://github.com/mooofin/JuliaRecon/blob/main/assets/image.png?raw=true" width="300px">
       <br>
-      <a href="https://github.com/mooofin/JuliaRecon"><b>JuliaRecon</b></a>
+      <a href="https://github.com/mooofin/JuliaScope"><b>JuliaRecon</b></a>
       <br>
       High-performance multithreaded subdomain enumerator in Julia, leveraging crt.sh for rapid reconnaissance.
     </td>
