@@ -1,4 +1,4 @@
-<h3 align="left">Hi 👋! I'm Sid <br> Passionate about CTFs, Reverse Engineering<br>🎮 Modding games <br>
+<h3 align="left">i write poems<br>
 
 ###
 
