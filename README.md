@@ -1,4 +1,4 @@
-<h3 align="left">i write poems<br>
+<h3 align="left">I write poems :3 <br>
 
 ###
 
