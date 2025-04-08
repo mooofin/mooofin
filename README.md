@@ -1,4 +1,4 @@
-<h3 align="left">writes poems  <br>
+<h3 align="left">writes poems and julia <br>
 
 ###
 
