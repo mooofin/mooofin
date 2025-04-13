@@ -28,7 +28,7 @@
       <br>
       <a href="https://github.com/mooofin/JuliaScope"><b>JuliaScope</b></a>
       <br>
-      High-performance multithreaded subdomain enumerator in Julia, leveraging crt.sh for rapid reconnaissance.
+      A high-performance, multithreaded subdomain enumerator written in Julia, leveraging crt.sh for rapid reconnaissance with built-in Docker support and Shodan API integration 
     </td>
     <td align="center">
       <img src="https://raw.githubusercontent.com/mooofin/KNN-DiagnosisModel/main/images/knn.png" width="200px">
