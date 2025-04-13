@@ -4,29 +4,7 @@
 
 ###
 
-<div align="left">
-  <img class="skill-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" alt="python logo" />
-  <img width="10" />
-  <img class="skill-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="25" alt="csharp logo" />
-  <img width="10" />
-  <img class="skill-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="25" alt="blender logo" />
-  <img width="10" />
-  <img class="skill-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="25" alt="jetbrains logo" />
-  <img width="10" />
-  <img class="skill-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="25" alt="linux logo" />
-  <img width="10" />
-  <img class="skill-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="25" alt="numpy logo" />
-  <img width="10" />
-  <img class="skill-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="25" alt="unity logo" />
-  <img width="10" />
-  <img class="skill-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="25" alt="c logo" />
-  <img width="10" />
-  <img class="skill-icon" src="https://skillicons.dev/icons?i=bots" height="25" alt="abbrobotstudio logo" />
-  <img width="10" />
-  <img class="skill-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" height="25" alt="julia logo" />
-  <img width="10" />
-  <img class="skill-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="25" alt="cplusplus logo" />
-</div>
+
 
 ###
 
