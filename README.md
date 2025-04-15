@@ -19,7 +19,7 @@
 
 ###
 
-# 🌊 My Projects
+#  My Projects
 
 <table>
   <tr>
