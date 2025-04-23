@@ -33,7 +33,7 @@
     <td align="center">
       <img src="https://raw.githubusercontent.com/mooofin/Theia-BC/main/images/knn.png" width="200px">
       <br>
-      <a href="https://github.com/mooofin/KNN-DiagnosisModel"><b>KNN-DiagnosisModel</b></a>
+      <a href="https://github.com/mooofin/KNN-DiagnosisModel"><b>Theia-BC</b></a>
       <br>
       A K-Nearest Neighbors (KNN) classifier for breast cancer diagnosis.
     </td>
