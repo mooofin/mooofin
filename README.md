@@ -28,7 +28,7 @@
       <br>
       <a href="https://github.com/mooofin/JuliaScope"><b>JuliaScope</b></a>
       <br>
-       multithreaded subdomain enumerator written in Julia
+       Multithreaded subdomain enumerator written in Julia
     </td>
     <td align="center">
       <img src="https://raw.githubusercontent.com/mooofin/Theia-BC/main/images/knn.png" width="200px">
