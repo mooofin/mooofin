@@ -3,10 +3,7 @@
 <img align="right" height="120" src="https://64.media.tumblr.com/70263b0ea735cdee90e93fa61e3564b1/tumblr_inline_n7kx1oUOmS1sfquyp.gif" />
 
 ###
-writes poems and Julia 
-
- 
-, mods fromsoftware games 
+writes poems and Julia , mods fromsoftware games 
 
 ###
 
