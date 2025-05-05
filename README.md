@@ -4,6 +4,7 @@
 
 ###
  mods fromsoftware games 
+ learning rust 
 
 ###
 
