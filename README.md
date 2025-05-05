@@ -18,51 +18,49 @@
 </div>
 
 ###
-
 <table>
   <tr>
-    <td align="center" width="260px">
-      <img src="https://github.com/mooofin/JuliaScope/blob/main/assets/icon.png?raw=true" width="80px">
+    <td align="center" width="280px">
+      <img src="https://github.com/mooofin/JuliaScope/blob/main/assets/icon.png?raw=true" width="120px" style="border-radius:8px">
       <br>
       <a href="https://github.com/mooofin/JuliaScope"><b>JuliaScope</b></a>
       <br>
-      <small>Multithreaded subdomain enumerator</small>
+      <p style="margin-top:4px; font-size:14px; color:#555">Multithreaded subdomain enumerator in Julia</p>
     </td>
-    <td align="center" width="260px">
-      <img src="https://raw.githubusercontent.com/mooofin/Theia-BC/main/images/knn.png" width="80px">
+    <td align="center" width="280px">
+      <img src="https://raw.githubusercontent.com/mooofin/Theia-BC/main/images/knn.png" width="120px" style="border-radius:8px">
       <br>
       <a href="https://github.com/mooofin/KNN-DiagnosisModel"><b>Theia-BC</b></a>
       <br>
-      <small>KNN classifier for breast cancer diagnosis</small>
+      <p style="margin-top:4px; font-size:14px; color:#555">KNN classifier for breast cancer diagnosis</p>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github.com/mooofin/DS_AnorLondoLightFix/blob/main/assests/ds.jpg?raw=true" width="80px">
+      <img src="https://github.com/mooofin/DS_AnorLondoLightFix/blob/main/assests/ds.jpg?raw=true" width="120px" style="border-radius:8px">
       <br>
       <a href="https://github.com/mooofin/DS_AnorLondoLightFix"><b>Anor Londo Light Fix</b></a>
       <br>
-      <small>Restores original lighting in Anor Londo</small>
+      <p style="margin-top:4px; font-size:14px; color:#555">Dark Souls lighting restoration mod</p>
     </td>
     <td align="center">
-      <img src="https://github.com/mooofin/EldenRingStutterFix/blob/main/assets/er.png?raw=true" width="80px">
+      <img src="https://github.com/mooofin/EldenRingStutterFix/blob/main/assets/er.png?raw=true" width="120px" style="border-radius:8px">
       <br>
       <a href="https://github.com/mooofin/EldenRingStutterFix"><b>Elden Ring Stutter Fix</b></a>
       <br>
-      <small>Optimizes CPU affinity to reduce stuttering</small>
+      <p style="margin-top:4px; font-size:14px; color:#555">CPU affinity optimizer</p>
     </td>
   </tr>
   <tr>
     <td align="center" colspan="2">
-      <img src="https://github.com/mooofin/God-of-War-Ragnarok/blob/main/assets/goww.png?raw=true" width="80px">
+      <img src="https://github.com/mooofin/God-of-War-Ragnarok/blob/main/assets/goww.png?raw=true" width="120px" style="border-radius:8px">
       <br>
       <a href="https://github.com/mooofin/God-of-War-Ragnarok"><b>God of War Ragnarök</b></a>
       <br>
-      <small>Cheat Engine scripts for single-player</small>
+      <p style="margin-top:4px; font-size:14px; color:#555">Cheat Engine scripts collection</p>
     </td>
   </tr>
 </table>
-
 # 🌟 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mooofin&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=mooofin&theme=dark&hide_border=false)<br/>
