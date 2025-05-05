@@ -19,48 +19,46 @@
 
 ###
 
-#  My Projects
-
 <table>
   <tr>
-    <td align="center">
-      <img src="https://github.com/mooofin/JuliaScope/blob/main/assets/icon.png?raw=true" width="200px">
+    <td align="center" width="260px">
+      <img src="https://github.com/mooofin/JuliaScope/blob/main/assets/icon.png?raw=true" width="80px">
       <br>
       <a href="https://github.com/mooofin/JuliaScope"><b>JuliaScope</b></a>
       <br>
-       Multithreaded subdomain enumerator written in Julia
+      <small>Multithreaded subdomain enumerator</small>
     </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/mooofin/Theia-BC/main/images/knn.png" width="200px">
+    <td align="center" width="260px">
+      <img src="https://raw.githubusercontent.com/mooofin/Theia-BC/main/images/knn.png" width="80px">
       <br>
       <a href="https://github.com/mooofin/KNN-DiagnosisModel"><b>Theia-BC</b></a>
       <br>
-      A K-Nearest Neighbors (KNN) classifier for breast cancer diagnosis.
+      <small>KNN classifier for breast cancer diagnosis</small>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github.com/mooofin/DS_AnorLondoLightFix/blob/main/assests/ds.jpg?raw=true" width="200px">
+      <img src="https://github.com/mooofin/DS_AnorLondoLightFix/blob/main/assests/ds.jpg?raw=true" width="80px">
       <br>
-      <a href="https://github.com/mooofin/DS_AnorLondoLightFix"><b>DS_AnorLondoLightFix</b></a>
+      <a href="https://github.com/mooofin/DS_AnorLondoLightFix"><b>Anor Londo Light Fix</b></a>
       <br>
-      A mod to restore and enhance the lighting in Anor Londo.
+      <small>Restores original lighting in Anor Londo</small>
     </td>
     <td align="center">
-      <img src="https://github.com/mooofin/EldenRingStutterFix/blob/main/assets/er.png?raw=true" width="200px">
+      <img src="https://github.com/mooofin/EldenRingStutterFix/blob/main/assets/er.png?raw=true" width="80px">
       <br>
-      <a href="https://github.com/mooofin/EldenRingStutterFix"><b>EldenRingStutterFix</b></a>
+      <a href="https://github.com/mooofin/EldenRingStutterFix"><b>Elden Ring Stutter Fix</b></a>
       <br>
-      A Python-based fix for Elden Ring stuttering by optimizing CPU affinity.
+      <small>Optimizes CPU affinity to reduce stuttering</small>
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <img src="https://github.com/mooofin/God-of-War-Ragnarok/blob/main/assets/goww.png?raw=true" width="200px">
+    <td align="center" colspan="2">
+      <img src="https://github.com/mooofin/God-of-War-Ragnarok/blob/main/assets/goww.png?raw=true" width="80px">
       <br>
-      <a href="https://github.com/mooofin/God-of-War-Ragnarok"><b>God-of-War-Ragnarok</b></a>
+      <a href="https://github.com/mooofin/God-of-War-Ragnarok"><b>God of War Ragnarök</b></a>
       <br>
-      Cheat Engine Scripts & Tools for modifying the single-player experience.
+      <small>Cheat Engine scripts for single-player</small>
     </td>
   </tr>
 </table>
