@@ -4,7 +4,7 @@
 
 ###
 
-  learning rust (not happening)
+  learning rust and lua
 
 ###
 
