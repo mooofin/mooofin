@@ -7,17 +7,6 @@
   learning rust and lua , hmu mods games
 
 ###
-
-<div align="center">
-  <a href="mailto:siddharthqln@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo" />
-  </a>
-  <a href="https://www.linkedin.com/in/siddharthu5799/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo" />
-  </a>
-</div>
-
-###
 <table>
   <tr>
     <td align="center">
@@ -25,14 +14,14 @@
       <br>
       <a href="https://github.com/mooofin/JuliaScope"><b>JuliaScope</b></a>
       <br>
-       Multithreaded subdomain enumerator written in Julia
+      Multithreaded subdomain enumerator written in Julia
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/mooofin/Theia-BC/main/images/knn.png" width="200px">
+      <img src="https://github.com/mooofin/Clair-Obscur/blob/main/assets/1.jpg?raw=true" width="200px">
       <br>
-      <a href="https://github.com/mooofin/KNN-DiagnosisModel"><b>Theia-BC</b></a>
+      <a href="https://github.com/mooofin/Clair-Obscur"><b>Clair-Obscur</b></a>
       <br>
-      A K-Nearest Neighbors (KNN) classifier for breast cancer diagnosis.
+      Featuring Lune in beautiful clothes with her original accessories (in development)
     </td>
   </tr>
   <tr>
@@ -59,8 +48,17 @@
       <br>
       Cheat Engine Scripts & Tools for modifying the single-player experience.
     </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/mooofin/Theia-BC/main/images/knn.png" width="200px">
+      <br>
+      <a href="https://github.com/mooofin/KNN-DiagnosisModel"><b>Theia-BC</b></a>
+      <br>
+      A K-Nearest Neighbors (KNN) classifier for breast cancer diagnosis.
+    </td>
   </tr>
 </table>
+
+
 
 
 # 🌟 GitHub Stats:
