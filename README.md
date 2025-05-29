@@ -4,7 +4,7 @@
 
 ###
 
-  learning rust and lua , hmu mods games
+  learning rust, hmu mods games
 
 ###
 <table>
