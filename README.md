@@ -17,7 +17,7 @@
       Multithreaded subdomain enumerator written in Julia
     </td>
     <td align="center">
-      <img src="https://github.com/mooofin/Clair-Obscur/blob/main/assets/1.jpg?raw=true" width="200px">
+      <img src="https://github.com/mooofin/Clair-Obscur/blob/main/assets/image.jpg?raw=true" width="200px">
       <br>
       <a href="https://github.com/mooofin/Clair-Obscur"><b>Clair-Obscur</b></a>
       <br>
