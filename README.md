@@ -21,7 +21,7 @@
       <br>
       <a href="https://github.com/mooofin/Clair-Obscur"><b>Clair-Obscur</b></a>
       <br>
-      Featuring Lune in beautiful clothes with her original accessories (in development)
+      Featuring Lune  (in development)
     </td>
   </tr>
   <tr>
