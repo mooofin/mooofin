@@ -4,7 +4,7 @@
 
 ###
 
- lana enthusiasist, aspiring rust dev 
+ lana enthusiasist
 
 ###
 <table>
