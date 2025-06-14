@@ -70,3 +70,4 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mooofin&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=314ikabu7m4lwg6rljojtmhf74uq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
