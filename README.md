@@ -57,7 +57,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github.com/mooofin/nix-dotfiles/blob/main/assets/nixos.png?raw=true" width="200px">
+      <img src="https://github.com/mooofin/nix-dotfiles/blob/main/assets/lana.jpg?raw=true" width="200px">
       <br>
       <a href="https://github.com/mooofin/nix-dotfiles"><b>nix-dotfiles</b></a>
       <br>
