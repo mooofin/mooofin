@@ -57,9 +57,9 @@
   </tr>
 <tr>
   <td align="center">
-    <img src="https://raw.githubusercontent.com/mooofin/nix-dotfiles/main/assets/lana.jpg" width="200px">
-    <br>
-    <a href="https://github.com/mooofin/nix-dotfiles"><b>nix-dotfiles</b></a>
+   <img src="https://raw.githubusercontent.com/mooofin/nix-dotfiles/main/main/assets/lana.jpg" width="200px">
+    
+   <a href="https://github.com/mooofin/nix-dotfiles"><b>nix-dotfiles</b></a>
     <br>
     Custom NixOS setup with Hyprland, Waybar, and moody Lana Del Rey aesthetics.
   </td>
