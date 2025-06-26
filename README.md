@@ -6,7 +6,6 @@
 
  lana enthusiasist
 
-###
 <table>
   <tr>
     <td align="center">
@@ -56,7 +55,18 @@
       A K-Nearest Neighbors (KNN) classifier for breast cancer diagnosis.
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/mooofin/nix-dotfiles/blob/main/assets/nixos.png?raw=true" width="200px">
+      <br>
+      <a href="https://github.com/mooofin/nix-dotfiles"><b>nix-dotfiles</b></a>
+      <br>
+      Custom NixOS configuration with Hyprland, Waybar, and more.
+    </td>
+    <td></td>
+  </tr>
 </table>
+
 
 
 
