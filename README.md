@@ -55,18 +55,17 @@
       A K-Nearest Neighbors (KNN) classifier for breast cancer diagnosis.
     </td>
   </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/mooofin/nix-dotfiles/main/assets/lana.jpg?raw=true" width="200px">
-      <br>
-      <a href="https://github.com/mooofin/nix-dotfiles"><b>nix-dotfiles</b></a>
-      <br>
-      Custom NixOS configuration with Hyprland, Waybar, and more.
-    </td>
-    <td></td>
-  </tr>
-</table>
-
+<tr>
+  <td align="center">
+    <img src="https://raw.githubusercontent.com/mooofin/nix-dotfiles/main/assets/lana.jpg" width="200px">
+    <br>
+    <a href="https://github.com/mooofin/nix-dotfiles"><b>nix-dotfiles</b></a>
+    <br>
+    Custom NixOS setup with Hyprland, Waybar, and moody Lana Del Rey aesthetics.
+  </td>
+  <td></td>
+</tr>
+<table></table>
 
 
 
