@@ -7,6 +7,16 @@
  lana enthusiasist
 
 <table>
+<table>
+  <tr>
+    <td align="center" colspan="2">
+      <img src="https://raw.githubusercontent.com/mooofin/nix-dotfiles/main/main/assets/lana.jpg" width="200px">
+      <br>
+      <a href="https://github.com/mooofin/nix-dotfiles"><b>nix-dotfiles</b></a>
+      <br>
+      Custom NixOS setup with Hyprland, Waybar, and moody Lana Del Rey aesthetics.
+    </td>
+  </tr>
   <tr>
     <td align="center">
       <img src="https://github.com/mooofin/JuliaScope/blob/main/assets/icon.png?raw=true" width="200px">
@@ -55,16 +65,9 @@
       A K-Nearest Neighbors (KNN) classifier for breast cancer diagnosis.
     </td>
   </tr>
-<tr>
-  <td align="center">
-   <img src="https://raw.githubusercontent.com/mooofin/nix-dotfiles/main/main/assets/lana.jpg" width="200px">
-    
-   <a href="https://github.com/mooofin/nix-dotfiles"><b>nix-dotfiles</b></a>
-    <br>
-    Custom NixOS setup with Hyprland, Waybar, and moody Lana Del Rey aesthetics.
-  </td>
-  <td></td>
-</tr>
+</table>
+
+
 <table></table>
 
 
