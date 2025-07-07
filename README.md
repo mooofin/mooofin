@@ -10,7 +10,7 @@
 <table>
   <tr>
     <td align="center" colspan="2">
-      <img src="https://raw.githubusercontent.com/mooofin/nix-dotfiles/main/main/assets/lana.jpg" width="200px">
+      <img src="https://raw.githubusercontent.com/mooofin/nix-dotfiles/main/assets/lana.jpg" width="200px" />
       <br>
       <a href="https://github.com/mooofin/nix-dotfiles"><b>nix-dotfiles</b></a>
       <br>
