@@ -72,9 +72,16 @@
 
 
 
+# 📊 GitHub Stats:
 
+![](https://nirzak-streak-stats.vercel.app/?user=mooofin&theme=rose&hide_border=true)<br/>
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mooofin&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=mooofin&theme=rose&no-frame=false&no-bg=true&margin-w=4)
+
+
+
+
+
 
