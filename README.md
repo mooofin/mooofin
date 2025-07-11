@@ -1,10 +1,11 @@
 ###
+ 
+<img align="centre" width="1600" height="1700" src="https://64.media.tumblr.com/a0f8940d2ff35063055b7feb26b0e8a1/tumblr_inline_nqas79clPv1rrosi0_500.gifv" alt="lana gif" />
 
-<img align="right" height="120" src="https://64.media.tumblr.com/70263b0ea735cdee90e93fa61e3564b1/tumblr_inline_n7kx1oUOmS1sfquyp.gif" />
 
 ###
 
- lana enthusiasist
+
 
 <table>
 <table>
