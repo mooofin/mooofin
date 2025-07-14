@@ -1,6 +1,6 @@
 ###
  
-<img align="centre" width="1600" height="1700" src="https://giffiles.alphacoders.com/210/210314.gif" alt="lana gif" />
+<img align="centre" width="1000" height="1100" src="https://giffiles.alphacoders.com/210/210314.gif" alt="lana gif" />
 
 
 ###
