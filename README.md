@@ -1,6 +1,6 @@
 ###
  
-<img align="centre" width="1600" height="1700" src="https://64.media.tumblr.com/a0f8940d2ff35063055b7feb26b0e8a1/tumblr_inline_nqas79clPv1rrosi0_500.gifv" alt="lana gif" />
+<img align="centre" width="1600" height="1700" src="https://giffiles.alphacoders.com/210/210314.gif" alt="lana gif" />
 
 
 ###
