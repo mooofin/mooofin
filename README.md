@@ -15,7 +15,7 @@
       <br>
       <a href="https://github.com/mooofin/nix-dotfiles"><b>nix-dotfiles</b></a>
       <br>
-      Custom NixOS setup with Hyprland, Waybar, and moody Lana Del Rey aesthetics.
+      Custom NixOS setup with Hyprland, Waybar, and moody aesthetics.
     </td>
   </tr>
   <tr>
