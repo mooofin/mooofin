@@ -31,7 +31,7 @@
       <br>
       <a href="https://github.com/mooofin/Clair-Obscur"><b>Clair-Obscur</b></a>
       <br>
-      Featuring Lune  (in development)
+      Featuring Lune  :3
     </td>
   </tr>
   <tr>
