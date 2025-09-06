@@ -7,8 +7,7 @@
  
 <img align="centre" width="1000" height="1100" src="https://camo.githubusercontent.com/061f7370a37ea69aaedb23f3c28be35fc16b71dc2fb99f828fefcaf80d1e6e20/68747470733a2f2f7661786572736b692e78797a2f6769746875622f61626f75746d65322e676966" alt="lana gif" />
 
-#### Reverse-engineering Soulsborne engines, living on NixOS + Gentoo, that's pretty much it ..
-
+### Reverse-engineering Soulsborne engines, living on NixOS & BSD , that's pretty much it :3
 
 
 
