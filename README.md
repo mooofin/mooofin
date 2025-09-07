@@ -7,7 +7,7 @@
  
 <img align="centre" width="1000" height="1100" src="https://camo.githubusercontent.com/061f7370a37ea69aaedb23f3c28be35fc16b71dc2fb99f828fefcaf80d1e6e20/68747470733a2f2f7661786572736b692e78797a2f6769746875622f61626f75746d65322e676966" alt="lana gif" />
 
-### Reverse-engineering Soulsborne engines, living on NixOS & BSD , that's pretty much it :3
+#### Reverse-engineering Soulsborne engines, living on NixOS & BSD , that's pretty much it :3
 
 
 
@@ -81,13 +81,13 @@
 <table></table>
 
 
+<img align="centre" width="1000" height="1100" src="https://camo.githubusercontent.com/60c10cabaae2f72df3a510a41be49749bc063f7540740627fb76b78cc2bcb93c/68747470733a2f2f7661786572736b692e78797a2f6769746875622f7374617473312e676966" alt="lana gif" />
 
-# 📊 GitHub Stats:
 
 ![](https://nirzak-streak-stats.vercel.app/?user=mooofin&theme=rose&hide_border=true)<br/>
 
 
-## 🏆 GitHub Trophies
+## 
 ![](https://github-profile-trophy.vercel.app/?username=mooofin&theme=rose&no-frame=false&no-bg=true&margin-w=4)
 
 
