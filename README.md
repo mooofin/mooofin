@@ -18,7 +18,7 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/mooofin/nix-dotfiles/main/main/assets/jpg" width="200px" />
+      <img src="https://i.pinimg.com/1200x/d3/9d/8b/d39d8b786e71034f95601c73c0f272a2.jpg" width="200px" />
       <br>
       <a href="https://github.com/mooofin/nix-dotfiles"><b>nix-dotfiles</b></a>
       <br>
