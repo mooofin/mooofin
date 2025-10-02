@@ -1,5 +1,3 @@
-# mooofin
-
 <img align="centre" width="1000" height="1100" src="https://64.media.tumblr.com/fa8e4a69166b7f6276465d48cecb14d3/tumblr_n9fwy4tQm51twvhkwo1_500.gifv" alt="lana gif" />
 
 <img align="centre" width="1000" height="1100" src="https://camo.githubusercontent.com/061f7370a37ea69aaedb23f3c28be35fc16b71dc2fb99f828fefcaf80d1e6e20/68747470733a2f2f7661786572736b692e78797a2f6769746875622f61626f75746d65322e676966" alt="lana gif" />
