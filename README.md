@@ -21,7 +21,7 @@
       <br>
       <a href="https://github.com/mooofin/nix-dotfiles"><b>nix-dotfiles</b></a>
       <br>
-      NixOS setup with Hyprland and moody aesthetics.
+      NixOS setup with Hyprland ,  Quickshell and Home-manager
     </td>
   </tr>
   <tr>
