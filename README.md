@@ -59,9 +59,9 @@ Honeymoon is alive and breathing
     <td align="center">
       <img src="https://github.com/mooofin/EldenRingStutterFix/blob/main/assets/er.png?raw=true" width="200px" />
       <br>
-      <a href="https://github.com/mooofin/EldenRingStutterFix"><b>EldenRingStutterFix</b></a>
+      <a href="https://github.com/mooofin/Thalix"><b>Thalix</b></a>
       <br>
-      A Python-based fix for Elden Ring stuttering by optimizing CPU affinity.
+      Thalix is a high-performance process management and memory editing toolkit
     </td>
   </tr>
   <tr>
