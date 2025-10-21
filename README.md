@@ -57,7 +57,7 @@ Honeymoon is alive and breathing
       A mod to restore and enhance the lighting in Anor Londo.
     </td>
     <td align="center">
-      <img src="https://github.com/mooofin/EldenRingStutterFix/blob/main/assets/er.png?raw=true" width="200px" />
+      <img src="https://github.com/mooofin/EldenRingStutterFix/blob/main/assets/Gz5tcVvakAAz1Do.jpg?raw=true" width="200px" />
       <br>
       <a href="https://github.com/mooofin/Thalix"><b>Thalix</b></a>
       <br>
