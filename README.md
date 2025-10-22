@@ -2,7 +2,16 @@
 
 <img align="centre" width="1000" height="1100" src="https://camo.githubusercontent.com/061f7370a37ea69aaedb23f3c28be35fc16b71dc2fb99f828fefcaf80d1e6e20/68747470733a2f2f7661786572736b692e78797a2f6769746875622f61626f75746d65322e676966" alt="lana gif" />
 
-Honeymoon is alive and breathing
+I’m a developer who fell into game systems through Dark Souls. Losing a 3000-hour save got me curious about how games work under the hood, and I started exploring memory, scripts, and engine behavior. For the past few years, I’ve been working on a Dark Souls restoration project, rebuilding engine systems, fixing lighting, improving AI, and adding new content  essentially shaping the game into what it could have been . 
+
+###  Lighting Mod: Before & After
+
+| Before | After |
+|--------|-------|
+| ![Before](https://github.com/user-attachments/assets/3485fae7-dfd8-4ca9-b8f5-fc18e4cdaf8d) | ![After](https://github.com/user-attachments/assets/3b6522c6-5095-440c-abde-0f7b491692b5) |
+
+
+Everything is still in active development  systems are being tested, assets reworked, and new mechanics integrated
 
 <img align="centre" width="1000" height="1100" src="https://camo.githubusercontent.com/ac6986544e0ccd5d30a3ba01e6d2f5c0d984d04b870896d41dcf5c7ea4640e48/68747470733a2f2f7661786572736b692e78797a2f6769746875622f7265706f73312e676966" alt="lana gif" />
 
