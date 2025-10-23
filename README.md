@@ -36,7 +36,7 @@ Everything is still in active development  systems are being tested, assets rewo
     <td align="center">
       <img src="https://github.com/user-attachments/assets/481da32a-2f13-4dba-afd1-4480638d49cc" width="200px" />
       <br>
-      <a href="https://github.com/mooofin/DOOM_ProceduralEngine"><b>DOOM_ProceduralEngine</b></a>
+      <a href="https://github.com/mooofin/HEKATE"><b>HEKATE</b></a>
       <br>
       A procedural generation engine inspired by DOOM's level design.
     </td>
