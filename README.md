@@ -1,17 +1,17 @@
-<img align="center" width="1000" height="1100" src="https://64.media.tumblr.com/fa8e4a69166b7f6276465d48cecb14d3/tumblr_n9fwy4tQm51twvhkwo1_500.gifv" alt="lana gif" />
+<img align="center" width="1000" height="1100" src="https://i.pinimg.com/originals/3b/99/2a/3b992ae6b70a2ac475506c8b3d71a4fd.gif" alt="lana gif" />
 
 <img align="center" width="1000" height="1100" src="https://camo.githubusercontent.com/061f7370a37ea69aaedb23f3c28be35fc16b71dc2fb99f828fefcaf80d1e6e20/68747470733a2f2f7661786572736b692e78797a2f6769746875622f61626f75746d65322e676966" alt="lana gif" />
 
 For the past few years, I’ve been working on a Dark Souls  project by making an enitely new DLC with new areas(The models being the un-used assets from bloodborne and darksouls 2 cut content ) , npc's questlines , weapons -spells and overall a vision to bring back the rushed development lifecycle that fromsoftware followed , inorder to make up for the 2nd half of darksouls ) 
 
 Some of my other modding projects include a lighting system for PTDE edition darksouls and more 
-### Lighting Mod: Before & After
+
 
 | Before | After |
 |--------|-------|
 | ![Before](https://github.com/user-attachments/assets/3485fae7-dfd8-4ca9-b8f5-fc18e4cdaf8d) | ![After](https://github.com/user-attachments/assets/3b6522c6-5095-440c-abde-0f7b491692b5) |
 
-Everything is still in active development s
+Everything is still in active development 
 
 <div align="center">
   
