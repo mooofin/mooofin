@@ -46,7 +46,7 @@ Everything is still in active development
       <br>
       <a href="https://github.com/mooofin/nix-dotfiles"><b>nix-dotfiles</b></a>
       <br>
-      NixOS setup with Hyprland, Quickshell and Home-manager
+      NixOS setup with Niri + Hyprland, Quickshell and Home-manager
     </td>
   </tr>
   <tr>
