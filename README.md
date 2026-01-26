@@ -74,6 +74,13 @@ Everything is still in active development
             <br>
             A raycaster engine inspired by DOOM.
         </td>
+        <td align="center">
+            <img src="https://github.com/mooofin/mooofin/blob/main/assets/afl-exercises.gif?raw=true" width="200px" />
+            <br>
+            <a href="https://github.com/mooofin/AFL-exercises"><b>AFL-exercises</b></a>
+            <br>
+            Coverage-guided fuzzing experiments using AFL++
+        </td>
     </tr>
     <tr>
         <td align="center">
