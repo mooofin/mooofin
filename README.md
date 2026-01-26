@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://github.com/mooofin/mooofin/blob/main/aboutme2.gif?raw=true" alt="About Me" />
+    <img src="https://github.com/mooofin/mooofin/blob/main/assets/aboutme2.gif?raw=true" alt="About Me" />
 </div>
 
 <table>
@@ -37,29 +37,38 @@ Everything is still in active development
 </div>
 
 <div align="center">
-    <img src="https://github.com/mooofin/mooofin/blob/main/repos1.gif?raw=true" alt="Repositories" />
+    <img src="https://github.com/mooofin/mooofin/blob/main/assets/repos1.gif?raw=true" alt="Repositories" />
 </div>
 
 <table>
     <tr>
         <td align="center" colspan="2">
-            <img src="https://i.pinimg.com/1200x/d3/9d/8b/d39d8b786e71034f95601c73c0f272a2.jpg" width="300px" />
+            <img src="https://github.com/mooofin/mooofin/blob/main/assets/honeymoon.gif?raw=true" width="300px" />
+            <br>
+            <a href="https://github.com/mooofin/honeymoon"><b>Honeymoon</b></a>
+            <br>
+            An Emacs-inspired C++20 terminal editor. No Lisp. No bloat.
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <img src="https://github.com/mooofin/mooofin/blob/main/assets/nix-dotfiles.gif?raw=true" width="200px" />
             <br>
             <a href="https://github.com/mooofin/nix-dotfiles"><b>nix-dotfiles</b></a>
             <br>
             NixOS setup with Niri + Hyprland, Quickshell and Home-manager
         </td>
-    </tr>
-    <tr>
         <td align="center">
-            <img src="https://i.pinimg.com/736x/20/2c/36/202c3664ef1ccebe10aaa92130bcb81c.jpg" width="200px" />
+            <img src="https://github.com/mooofin/mooofin/blob/main/assets/portfolio.gif?raw=true" width="200px" />
             <br>
             <a href="https://github.com/mooofin/portfolio"><b>Portfolio Website</b></a>
             <br>
             Personal portfolio & blogs
         </td>
+    </tr>
+    <tr>
         <td align="center">
-            <img src="https://github.com/user-attachments/assets/cc302701-7014-4092-83a8-a9eebe7d08da" width="200px" />
+            <img src="https://github.com/mooofin/mooofin/blob/main/assets/aetherion.gif?raw=true" width="200px" />
             <br>
             <a href="https://github.com/mooofin/Aetherion"><b>AETHERION</b></a>
             <br>
@@ -68,14 +77,14 @@ Everything is still in active development
     </tr>
     <tr>
         <td align="center">
-            <img src="https://github.com/mooofin/JuliaScope/blob/main/assets/icon.png?raw=true" width="200px" />
+            <img src="https://github.com/mooofin/mooofin/blob/main/assets/juliascope.gif?raw=true" width="200px" />
             <br>
             <a href="https://github.com/mooofin/JuliaScope"><b>JuliaScope</b></a>
             <br>
             Multithreaded subdomain enumerator written in Julia
         </td>
         <td align="center">
-            <img src="https://github.com/mooofin/Clair-Obscur/blob/main/assets/image.jpg?raw=true" width="200px" />
+            <img src="https://github.com/mooofin/mooofin/blob/main/assets/lune.gif?raw=true" width="200px" />
             <br>
             <a href="https://github.com/mooofin/Clair-Obscur"><b>Clair-Obscur</b></a>
             <br>
@@ -84,14 +93,14 @@ Everything is still in active development
     </tr>
     <tr>
         <td align="center">
-            <img src="https://github.com/mooofin/DS_AnorLondoLightFix/blob/main/assests/ds.jpg?raw=true" width="200px" />
+            <img src="https://github.com/mooofin/mooofin/blob/main/assets/ds-anorlondo.gif?raw=true" width="200px" />
             <br>
             <a href="https://github.com/mooofin/DS_AnorLondoLightFix"><b>DS_AnorLondoLightFix</b></a>
             <br>
             A mod to restore and enhance the lighting in Anor Londo.
         </td>
         <td align="center">
-            <img src="https://github.com/mooofin/EldenRingStutterFix/blob/main/assets/Gz5tcVvakAAz1Do.jpg?raw=true" width="200px" />
+            <img src="https://github.com/mooofin/mooofin/blob/main/assets/thalix.gif?raw=true" width="200px" />
             <br>
             <a href="https://github.com/mooofin/Thalix"><b>Thalix</b></a>
             <br>
@@ -107,7 +116,7 @@ Everything is still in active development
             Cheat Engine Scripts & Tools for modifying the single-player experience.
         </td>
         <td align="center">
-            <img src="https://raw.githubusercontent.com/mooofin/Theia-BC/main/images/knn.png" width="200px" />
+            <img src="https://github.com/mooofin/mooofin/blob/main/assets/theia-bc.gif?raw=true" width="200px" />
             <br>
             <a href="https://github.com/mooofin/KNN-DiagnosisModel"><b>Theia-BC</b></a>
             <br>
@@ -116,14 +125,14 @@ Everything is still in active development
     </tr>
     <tr>
         <td align="center">
-            <img src="https://i.pinimg.com/736x/bc/64/64/bc646469c621eeebe38940330c60b97c.jpg?raw=true" width="200px" />
+            <img src="https://github.com/mooofin/mooofin/blob/main/assets/rustflakes.gif?raw=true" width="200px" />
             <br>
             <a href="https://github.com/mooofin/Rustflakes"><b>Rustflakes</b></a>
             <br>
             Rust project with Nix flakes for multi-target cross-compilation & Docker
         </td>
         <td align="center">
-            <img src="https://i.pinimg.com/736x/5e/4b/e2/5e4be2a8d2000d92b40f105bec939a94.jpg" width="200px" />
+            <img src="https://github.com/mooofin/mooofin/blob/main/assets/ctfs.gif?raw=true" width="200px" />
             <br>
             <a href="https://github.com/mooofin/CTFs"><b>CTFs</b></a>
             <br>
@@ -132,6 +141,4 @@ Everything is still in active development
     </tr>
 </table>
 
-<div align="center">
-    <img src="https://github.com/mooofin/mooofin/blob/main/stats1.gif?raw=true" alt="Stats" />
-</div>
+
