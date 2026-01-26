@@ -1,29 +1,30 @@
+<div align="center">
+    <img src="https://github.com/mooofin/mooofin/blob/main/aboutme2.gif?raw=true" alt="About Me" />
+</div>
 
 <table>
-  <tr>
-    <td>
-      <img src="https://i.pinimg.com/originals/3b/99/2a/3b992ae6b70a2ac475506c8b3d71a4fd.gif" width="250" height="250" style="object-fit: cover;" />
-    </td>
-    <td>
-      For the past few years, I’ve been working on a Dark Souls project by making an entirely new DLC with new areas (the models being the unused assets from Bloodborne and Dark Souls 2 cut content), NPC questlines, weapons, spells and an overall vision to restore all the spark that got lost in the rushed development cycle of the original game, especially the second half.
-    </td>
-  </tr>
+    <tr>
+        <td>
+            <img src="https://i.pinimg.com/originals/3b/99/2a/3b992ae6b70a2ac475506c8b3d71a4fd.gif" width="250" height="250" style="object-fit: cover;" />
+        </td>
+        <td>
+            For the past few years, I've been working on a Dark Souls project by making an entirely new DLC with new areas (the models being the unused assets from Bloodborne and Dark Souls 2 cut content), NPC questlines, weapons, spells and an overall vision to restore all the spark that got lost in the rushed development cycle of the original game, especially the second half.
+        </td>
+    </tr>
 </table>
 
-
-Some of my other modding projects include a lighting system for PTDE edition darksouls and more 
-
+Some of my other modding projects include a lighting system for PTDE edition darksouls and more
 
 | Before | After |
 |--------|-------|
 | ![Before](https://github.com/user-attachments/assets/3485fae7-dfd8-4ca9-b8f5-fc18e4cdaf8d) | ![After](https://github.com/user-attachments/assets/3b6522c6-5095-440c-abde-0f7b491692b5) |
 
-Everything is still in active development 
+Everything is still in active development
 
 <div align="center">
-  
+    
 ### Tools & Technologies
-  
+    
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nixos/nixos-original.svg" alt="NixOS" width="60" height="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gentoo/gentoo-plain.svg" alt="Gentoo" width="60" height="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/julia/julia-original.svg" alt="Julia" width="60" height="60"/>
@@ -35,99 +36,102 @@ Everything is still in active development
 
 </div>
 
-
+<div align="center">
+    <img src="https://github.com/mooofin/mooofin/blob/main/repos1.gif?raw=true" alt="Repositories" />
+</div>
 
 <table>
-  <tr>
-    <td align="center" colspan="2">
-      <img src="https://i.pinimg.com/1200x/d3/9d/8b/d39d8b786e71034f95601c73c0f272a2.jpg" width="300px" />
-      <br>
-      <a href="https://github.com/mooofin/nix-dotfiles"><b>nix-dotfiles</b></a>
-      <br>
-      NixOS setup with Niri + Hyprland, Quickshell and Home-manager
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://i.pinimg.com/736x/20/2c/36/202c3664ef1ccebe10aaa92130bcb81c.jpg" width="200px" />
-      <br>
-      <a href="https://github.com/mooofin/portfolio"><b>Portfolio Website</b></a>
-      <br>
-      Personal portfolio & blogs 
-    </td>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/cc302701-7014-4092-83a8-a9eebe7d08da" width="200px" />
-      <br>
-      <a href="https://github.com/mooofin/Aetherion"><b>AETHERION</b></a>
-      <br>
-      A raycaster engine inspired by DOOM.
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/mooofin/JuliaScope/blob/main/assets/icon.png?raw=true" width="200px" />
-      <br>
-      <a href="https://github.com/mooofin/JuliaScope"><b>JuliaScope</b></a>
-      <br>
-      Multithreaded subdomain enumerator written in Julia
-    </td>
-    <td align="center">
-      <img src="https://github.com/mooofin/Clair-Obscur/blob/main/assets/image.jpg?raw=true" width="200px" />
-      <br>
-      <a href="https://github.com/mooofin/Clair-Obscur"><b>Clair-Obscur</b></a>
-      <br>
-      Featuring Lune :3
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/mooofin/DS_AnorLondoLightFix/blob/main/assests/ds.jpg?raw=true" width="200px" />
-      <br>
-      <a href="https://github.com/mooofin/DS_AnorLondoLightFix"><b>DS_AnorLondoLightFix</b></a>
-      <br>
-      A mod to restore and enhance the lighting in Anor Londo.
-    </td>
-    <td align="center">
-      <img src="https://github.com/mooofin/EldenRingStutterFix/blob/main/assets/Gz5tcVvakAAz1Do.jpg?raw=true" width="200px" />
-      <br>
-      <a href="https://github.com/mooofin/Thalix"><b>Thalix</b></a>
-      <br>
-      Thalix is a high-performance process management and memory editing toolkit
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/mooofin/God-of-War-Ragnarok/blob/main/assets/goww.png?raw=true" width="200px" />
-      <br>
-      <a href="https://github.com/mooofin/God-of-War-Ragnarok"><b>God-of-War-Ragnarok</b></a>
-      <br>
-      Cheat Engine Scripts & Tools for modifying the single-player experience.
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/mooofin/Theia-BC/main/images/knn.png" width="200px" />
-      <br>
-      <a href="https://github.com/mooofin/KNN-DiagnosisModel"><b>Theia-BC</b></a>
-      <br>
-      A K-Nearest Neighbors (KNN) classifier for breast cancer diagnosis.
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://i.pinimg.com/736x/bc/64/64/bc646469c621eeebe38940330c60b97c.jpg?raw=true" width="200px" />
-      <br>
-      <a href="https://github.com/mooofin/Rustflakes"><b>Rustflakes</b></a>
-      <br>
-      Rust project with Nix flakes for multi-target cross-compilation & Docker
-    </td>
-    <td align="center">
-      <img src="https://i.pinimg.com/736x/5e/4b/e2/5e4be2a8d2000d92b40f105bec939a94.jpg" width="200px" />
-      <br>
-      <a href="https://github.com/mooofin/CTFs"><b>CTFs</b></a>
-      <br>
-      CTF writeups :3
-    </td>
-  </tr>
+    <tr>
+        <td align="center" colspan="2">
+            <img src="https://i.pinimg.com/1200x/d3/9d/8b/d39d8b786e71034f95601c73c0f272a2.jpg" width="300px" />
+            <br>
+            <a href="https://github.com/mooofin/nix-dotfiles"><b>nix-dotfiles</b></a>
+            <br>
+            NixOS setup with Niri + Hyprland, Quickshell and Home-manager
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <img src="https://i.pinimg.com/736x/20/2c/36/202c3664ef1ccebe10aaa92130bcb81c.jpg" width="200px" />
+            <br>
+            <a href="https://github.com/mooofin/portfolio"><b>Portfolio Website</b></a>
+            <br>
+            Personal portfolio & blogs
+        </td>
+        <td align="center">
+            <img src="https://github.com/user-attachments/assets/cc302701-7014-4092-83a8-a9eebe7d08da" width="200px" />
+            <br>
+            <a href="https://github.com/mooofin/Aetherion"><b>AETHERION</b></a>
+            <br>
+            A raycaster engine inspired by DOOM.
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <img src="https://github.com/mooofin/JuliaScope/blob/main/assets/icon.png?raw=true" width="200px" />
+            <br>
+            <a href="https://github.com/mooofin/JuliaScope"><b>JuliaScope</b></a>
+            <br>
+            Multithreaded subdomain enumerator written in Julia
+        </td>
+        <td align="center">
+            <img src="https://github.com/mooofin/Clair-Obscur/blob/main/assets/image.jpg?raw=true" width="200px" />
+            <br>
+            <a href="https://github.com/mooofin/Clair-Obscur"><b>Clair-Obscur</b></a>
+            <br>
+            Featuring Lune :3
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <img src="https://github.com/mooofin/DS_AnorLondoLightFix/blob/main/assests/ds.jpg?raw=true" width="200px" />
+            <br>
+            <a href="https://github.com/mooofin/DS_AnorLondoLightFix"><b>DS_AnorLondoLightFix</b></a>
+            <br>
+            A mod to restore and enhance the lighting in Anor Londo.
+        </td>
+        <td align="center">
+            <img src="https://github.com/mooofin/EldenRingStutterFix/blob/main/assets/Gz5tcVvakAAz1Do.jpg?raw=true" width="200px" />
+            <br>
+            <a href="https://github.com/mooofin/Thalix"><b>Thalix</b></a>
+            <br>
+            Thalix is a high-performance process management and memory editing toolkit
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <img src="https://github.com/mooofin/God-of-War-Ragnarok/blob/main/assets/goww.png?raw=true" width="200px" />
+            <br>
+            <a href="https://github.com/mooofin/God-of-War-Ragnarok"><b>God-of-War-Ragnarok</b></a>
+            <br>
+            Cheat Engine Scripts & Tools for modifying the single-player experience.
+        </td>
+        <td align="center">
+            <img src="https://raw.githubusercontent.com/mooofin/Theia-BC/main/images/knn.png" width="200px" />
+            <br>
+            <a href="https://github.com/mooofin/KNN-DiagnosisModel"><b>Theia-BC</b></a>
+            <br>
+            A K-Nearest Neighbors (KNN) classifier for breast cancer diagnosis.
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <img src="https://i.pinimg.com/736x/bc/64/64/bc646469c621eeebe38940330c60b97c.jpg?raw=true" width="200px" />
+            <br>
+            <a href="https://github.com/mooofin/Rustflakes"><b>Rustflakes</b></a>
+            <br>
+            Rust project with Nix flakes for multi-target cross-compilation & Docker
+        </td>
+        <td align="center">
+            <img src="https://i.pinimg.com/736x/5e/4b/e2/5e4be2a8d2000d92b40f105bec939a94.jpg" width="200px" />
+            <br>
+            <a href="https://github.com/mooofin/CTFs"><b>CTFs</b></a>
+            <br>
+            CTF writeups :3
+        </td>
+    </tr>
 </table>
 
-
-
+<div align="center">
+    <img src="https://github.com/mooofin/mooofin/blob/main/stats1.gif?raw=true" alt="Stats" />
+</div>
