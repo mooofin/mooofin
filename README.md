@@ -2,16 +2,10 @@
     <img src="https://github.com/mooofin/mooofin/blob/main/assets/aboutme2.gif?raw=true" alt="About Me" />
 </div>
 
-<table>
-    <tr>
-        <td>
-            <img src="https://i.pinimg.com/originals/3b/99/2a/3b992ae6b70a2ac475506c8b3d71a4fd.gif" width="250" height="250" style="object-fit: cover;" />
-        </td>
-        <td>
-            For the past few years, I've been working on a Dark Souls project by making an entirely new DLC with new areas (the models being the unused assets from Bloodborne and Dark Souls 2 cut content), NPC questlines, weapons, spells and an overall vision to restore all the spark that got lost in the rushed development cycle of the original game, especially the second half.
-        </td>
-    </tr>
-</table>
+## Dark Souls Restoration Project
+
+For the past few years, I’ve been working on an entirely new Dark Souls DLC featuring new areas (using unused assets from Bloodborne and Dark Souls 2 cut content), original NPC questlines, weapons, spells, and a vision focused on restoring the spark lost during the rushed second half of the original game.
+
 
 Some of my other modding projects include a lighting system for PTDE edition darksouls and more
 
