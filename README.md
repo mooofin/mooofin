@@ -36,12 +36,19 @@ Everything is still in active development
 
 <table>
     <tr>
-        <td align="center" colspan="2">
-            <img src="https://github.com/mooofin/mooofin/blob/main/assets/honeymoon.gif?raw=true" width="300px" />
+        <td align="center">
+            <img src="https://github.com/mooofin/mooofin/blob/main/assets/honeymoon.gif?raw=true" width="200px" />
             <br>
             <a href="https://github.com/mooofin/honeymoon"><b>Honeymoon</b></a>
             <br>
             An Emacs-inspired C++20 terminal editor. No Lisp. No bloat.
+        </td>
+        <td align="center">
+            <img src="https://i.pinimg.com/originals/71/de/c5/71dec53979103fce0219d977fe1ae478.gif" width="200px" />
+            <br>
+            <a href="https://github.com/mooofin/IRAnatomy"><b>IRAnatomy</b></a>
+            <br>
+            Exposing LLVM’s optimization pipeline via IR snapshots, SSA transformations, and CFG visualization.
         </td>
     </tr>
     <tr>
@@ -140,6 +147,20 @@ Everything is still in active development
             CTF writeups :3
         </td>
     </tr>
+    <tr>
+        <td align="center">
+            <img src="https://i.pinimg.com/originals/31/1d/3b/311d3b1516ae90d735731d2909f88905.gif" width="200px" />
+            <br>
+            <a href="https://github.com/mooofin/modern-cpp-workbench-starter"><b>modern-cpp-workbench-starter</b></a>
+            <br>
+            Modern C++20 starter kit with CMake + Conan, sanitizers, and a template playground.
+        </td>
+        <td align="center">
+            <img src="https://i.pinimg.com/originals/1b/5d/c7/1b5dc705ab3b2560a75bca6c9aa4222d.gif" width="200px" />
+            <br>
+            <a href="https://github.com/mooofin/SoftBoot"><b>SoftBoot</b></a>
+            <br>
+            A minimal x86 bootloader from scratch.
+        </td>
+    </tr>
 </table>
-
-
