@@ -4,8 +4,7 @@
 
 ## Dark Souls Restoration Project
 
-For the past few years, I’ve been working on an entirely new Dark Souls DLC featuring new areas (using unused assets from Bloodborne and Dark Souls 2 cut content), original NPC questlines, weapons, spells, and a vision focused on restoring the spark lost during the rushed second half of the original game.
-
+For the past few years, I've been working on an entirely new Dark Souls DLC featuring new areas (using unused assets from Bloodborne and Dark Souls 2 cut content), original NPC questlines, weapons, spells, and a vision focused on restoring the spark lost during the rushed second half of the original game.
 
 Some of my other modding projects include a lighting system for PTDE edition darksouls and more
 
@@ -24,19 +23,28 @@ Everything is still in active development
 
 <table>
     <tr>
-        <td align="center">
+        <td align="center" colspan="2">
             <img src="https://github.com/mooofin/mooofin/blob/main/assets/honeymoon.gif?raw=true" width="200px" />
             <br>
             <a href="https://github.com/mooofin/honeymoon"><b>Honeymoon</b></a>
             <br>
-            An Emacs-inspired C++20 terminal editor. No Lisp. No bloat.
+            An Emacs-inspired C++20 terminal editor. Tree-sitter. 38kb. Faster and lighter than anything else
         </td>
+    </tr>
+    <tr>
         <td align="center">
             <img src="https://i.pinimg.com/originals/71/de/c5/71dec53979103fce0219d977fe1ae478.gif" width="200px" />
             <br>
             <a href="https://github.com/mooofin/IRAnatomy"><b>IRAnatomy</b></a>
             <br>
-            Exposing LLVM’s optimization pipeline via IR snapshots, SSA transformations, and CFG visualization.
+            Exposing LLVM's optimization pipeline via IR snapshots, SSA transformations, and CFG visualization.
+        </td>
+        <td align="center">
+            <img src="https://cdn-blog.adafruit.com/uploads/2019/08/risc-v.jpg" width="200px" />
+            <br>
+            <a href="https://github.com/mooofin/hypv64"><b>hypv64</b></a>
+            <br>
+            RISC-V 64 hypervisor in Rust, built for QEMU virt. Boots, maps memory, launches a guest VM.
         </td>
     </tr>
     <tr>
