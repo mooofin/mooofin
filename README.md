@@ -23,12 +23,19 @@ Everything is still in active development
 
 <table>
     <tr>
-        <td align="center" colspan="2">
+        <td align="center">
             <img src="https://github.com/mooofin/mooofin/blob/main/assets/honeymoon.webp?raw=true" width="200px" />
             <br>
             <a href="https://github.com/mooofin/honeymoon"><b>Honeymoon</b></a>
             <br>
             An Emacs-inspired C++20 terminal editor. Tree-sitter. 38kb. Faster and lighter than anything else
+        </td>
+        <td align="center">
+            <img src="https://github.com/mooofin/mooofin/blob/main/assets/volatiltypng.png?raw=true" width="200px" />
+            <br>
+            <a href="https://github.com/mooofin/mac-volatility-plugins"><b>mac-volatility-plugins</b></a>
+            <br>
+            Volatility 3 plugins for macOS memory forensics.
         </td>
     </tr>
     <tr>
