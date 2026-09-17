@@ -115,6 +115,7 @@ I also work on Dark Souls modding tools and visual restoration projects, includi
 
 | Date | Post |
 | --- | --- |
+| 2026-08-31 | [Reverse-Engineering Jane Street's ASIC](https://mooofin.github.io/portfolio/blog/jane-street-asic.html?latex=1) |
 | 2026-08-01 | [Dynamic Analysis of VEH Dispatch and Exception-Context RIP Modification Using ROP Gadgets in ntdll.dll](https://mooofin.github.io/portfolio/blog/vehguard.html?latex=1) |
 | 2026-08-02 | [L3AK CTF - Not my mod files bestie (DFIR)](https://mooofin.github.io/portfolio/blog/not-my-modfiles-bestie.html?latex=1) |
 | 2026-07-08 | [R3CTF - Tsuki's Rhythm Game Writeup (DFIR)](https://mooofin.github.io/portfolio/blog/tsuki-rhythm-game.html?latex=1) |
