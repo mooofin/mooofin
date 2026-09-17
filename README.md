@@ -94,9 +94,9 @@ I also work on Dark Souls modding tools and visual restoration projects, includi
       <sub>Process management and memory editing toolkit.</sub>
     </td>
     <td width="25%" align="center">
-      <img src="https://github.com/mooofin/mooofin/blob/main/assets/pinimg3.webp?raw=true" width="120" alt="SoftBoot" /><br>
-      <a href="https://github.com/mooofin/SoftBoot"><b>SoftBoot</b></a><br>
-      <sub>Minimal x86 bootloader written from scratch.</sub>
+      <img src="https://i.pinimg.com/1200x/d7/6f/6f/d76f6f32b06f27066150e2c4e9d0ed71.jpg" width="120" alt="Taara" /><br>
+      <a href="https://github.com/mooofin/Taara"><b>Taara</b></a><br>
+      <sub>Topology-aware RNA-folding compiler built on MLIR.</sub>
     </td>
     <td width="25%" align="center">
       <img src="https://github.com/mooofin/mooofin/blob/main/assets/rustflakes.webp?raw=true" width="120" alt="Rustflakes" /><br>
