@@ -28,9 +28,9 @@ I also work on Dark Souls modding tools and visual restoration projects, includi
       <sub>C++20 terminal editor with Tree-sitter support.</sub>
     </td>
     <td width="25%" align="center">
-      <img src="https://github.com/mooofin/mooofin/blob/main/assets/pinimg1.webp?raw=true" width="120" alt="IRAnatomy" /><br>
-      <a href="https://github.com/mooofin/IRAnatomy"><b>IRAnatomy</b></a><br>
-      <sub>LLVM IR snapshots, SSA views, and CFG visualization.</sub>
+      <img src="https://i.pinimg.com/1200x/d7/6f/6f/d76f6f32b06f27066150e2c4e9d0ed71.jpg" width="120" alt="Taara" /><br>
+      <a href="https://github.com/mooofin/Taara"><b>Taara</b></a><br>
+      <sub>Topology-aware RNA-folding compiler built on MLIR.</sub>
     </td>
     <td width="25%" align="center">
       <img src="https://cdn-blog.adafruit.com/uploads/2019/08/risc-v.jpg" width="120" alt="hypv64" /><br>
@@ -94,9 +94,9 @@ I also work on Dark Souls modding tools and visual restoration projects, includi
       <sub>Process management and memory editing toolkit.</sub>
     </td>
     <td width="25%" align="center">
-      <img src="https://i.pinimg.com/1200x/d7/6f/6f/d76f6f32b06f27066150e2c4e9d0ed71.jpg" width="120" alt="Taara" /><br>
-      <a href="https://github.com/mooofin/Taara"><b>Taara</b></a><br>
-      <sub>Topology-aware RNA-folding compiler built on MLIR.</sub>
+      <img src="https://github.com/mooofin/mooofin/blob/main/assets/pinimg1.webp?raw=true" width="120" alt="IRAnatomy" /><br>
+      <a href="https://github.com/mooofin/IRAnatomy"><b>IRAnatomy</b></a><br>
+      <sub>LLVM IR snapshots, SSA views, and CFG visualization.</sub>
     </td>
     <td width="25%" align="center">
       <img src="https://github.com/mooofin/mooofin/blob/main/assets/rustflakes.webp?raw=true" width="120" alt="Rustflakes" /><br>
