@@ -104,9 +104,9 @@ I also work on Dark Souls modding tools and visual restoration projects, includi
       <sub>Rust and Nix flakes for cross-compilation.</sub>
     </td>
     <td width="25%" align="center">
-      <img src="https://github.com/mooofin/mooofin/blob/main/assets/nix-dotfiles.webp?raw=true" width="120" alt="nix-dotfiles" /><br>
-      <a href="https://github.com/mooofin/nix-dotfiles"><b>nix-dotfiles</b></a><br>
-      <sub>NixOS setup with Niri, Hyprland, and Home Manager.</sub>
+      <img src="https://github.com/mooofin/mooofin/blob/main/assets/nix-dotfiles.webp?raw=true" width="120" alt="Gentoo-dotfiles" /><br>
+      <a href="https://github.com/mooofin/nix-dotfiles"><b>Gentoo-dotfiles</b></a><br>
+      <sub>Gentoo/NixOS setup with Niri, Hyprland, and Home Manager.</sub>
     </td>
   </tr>
 </table>
