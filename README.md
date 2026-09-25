@@ -1,4 +1,4 @@
-<<div align="center">
+<div align="center">
   <img src="https://github.com/mooofin/mooofin/blob/main/assets/aboutme2.webp?raw=true" alt="About Me" />
 </div>
 
