@@ -1,6 +1,10 @@
-<div align="center">
+<<div align="center">
   <img src="https://github.com/mooofin/mooofin/blob/main/assets/aboutme2.webp?raw=true" alt="About Me" />
 </div>
+
+Hi, I’m Siddharth. I play CTFs with **[r3kapig](https://ctftime.org/team/58979)** and [L3ak](https://ctftime.org/team/220336/).
+
+I’m a third-year Cyber-Physical Systems student at [Manipal Institute of Technology](https://www.manipal.edu/mit.html), interested in reverse engineering and digital forensics. Outside CTFs, I work on compilers and low-level systems and write about what I learn.
 
 ## Dark Souls Restoration Project
 
@@ -17,7 +21,6 @@ I also work on Dark Souls modding tools and visual restoration projects, includi
 <div align="center">
   <img src="https://github.com/mooofin/mooofin/blob/main/assets/repos1.webp?raw=true" alt="Repositories" />
 </div>
-
 ## Featured Projects
 
 <table>
