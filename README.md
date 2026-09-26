@@ -1,123 +1,10 @@
-<div align="center">
-  <img src="https://github.com/mooofin/mooofin/blob/main/assets/aboutme2.webp?raw=true" alt="About Me" />
-</div>
 
-Hi, I’m Siddharth. I play CTFs with **[r3kapig](https://ctftime.org/team/58979)** and [L3ak](https://ctftime.org/team/220336/).
+Hi, I’m Siddharth, a CTF player with **[r3kapig](https://ctftime.org/team/58979)** and [L3ak](https://ctftime.org/team/220336/).
 
-I’m a third-year Cyber-Physical Systems student at [Manipal Institute of Technology](https://www.manipal.edu/mit.html), interested in reverse engineering and digital forensics. Outside CTFs, I work on compilers and low-level systems and write about what I learn.
-
-## Dark Souls Restoration Project
-
-I am developing a new Dark Souls expansion focused on restoring the atmosphere, pacing, and sense of discovery that defined the original game. The project includes new areas, original NPC questlines, weapons, spells, and restored or reimagined content inspired by unused assets from Bloodborne and Dark Souls II.
-
-The project is currently in active development.
-
-| Before | After |
-| --- | --- |
-| ![Before](https://github.com/user-attachments/assets/3485fae7-dfd8-4ca9-b8f5-fc18e4cdaf8d) | ![After](https://github.com/user-attachments/assets/3b6522c6-5095-440c-abde-0f7b491692b5) |
-
-I also work on Dark Souls modding tools and visual restoration projects, including lighting improvements for Prepare to Die Edition.
-
-<div align="center">
-  <img src="https://github.com/mooofin/mooofin/blob/main/assets/repos1.webp?raw=true" alt="Repositories" />
-</div>
+I’m a third-year Cyber-Physical Systems student at [Manipal Institute of Technology](https://www.manipal.edu/mit.html), interested in reverse engineering and digital forensics and anti EDR . Outside CTFs, I work on compilers and low-level systems and write .
 
 
-
-
-
-<table>
-  <tr>
-    <td width="25%" align="center">
-      <img src="https://github.com/mooofin/mooofin/blob/main/assets/honeymoon.webp?raw=true" width="120" alt="Honeymoon" /><br>
-      <a href="https://github.com/mooofin/honeymoon"><b>Honeymoon</b></a><br>
-      <sub>C++20 terminal editor with Tree-sitter support.</sub>
-    </td>
-    <td width="25%" align="center">
-      <img src="https://i.pinimg.com/1200x/d7/6f/6f/d76f6f32b06f27066150e2c4e9d0ed71.jpg" width="120" alt="Taara" /><br>
-      <a href="https://github.com/mooofin/Taara"><b>Taara</b></a><br>
-      <sub>Topology-aware RNA-folding compiler built on MLIR.</sub>
-    </td>
-    <td width="25%" align="center">
-      <img src="https://cdn-blog.adafruit.com/uploads/2019/08/risc-v.jpg" width="120" alt="hypv64" /><br>
-      <a href="https://github.com/mooofin/hypv64"><b>hypv64</b></a><br>
-      <sub>RISC-V 64 hypervisor in Rust for QEMU virt.</sub>
-    </td>
-    <td width="25%" align="center">
-      <img src="https://dimitrifourny.github.io/img/exception_trace.png" width="120" alt="VEHguard" /><br>
-      <a href="https://github.com/mooofin/VEHguard"><b>VEHguard</b></a><br>
-      <sub>Windows exception-handling research and VEH-based protection tooling.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="25%" align="center">
-      <img src="https://github.com/mooofin/mooofin/blob/main/assets/volatiltypng.png?raw=true" width="120" alt="mac-volatility-plugins" /><br>
-      <a href="https://github.com/mooofin/mac-volatility-plugins"><b>mac-volatility-plugins</b></a><br>
-      <sub>Volatility 3 plugins for macOS memory forensics.</sub>
-    </td>
-    <td width="25%" align="center">
-      <img src="https://github.com/mooofin/mooofin/blob/main/assets/afl-exercises.webp?raw=true" width="120" alt="AFL-exercises" /><br>
-      <a href="https://github.com/mooofin/AFL-exercises"><b>AFL-exercises</b></a><br>
-      <sub>Coverage-guided fuzzing experiments using AFL++.</sub>
-    </td>
-    <td width="25%" align="center">
-      <img src="https://github.com/mooofin/mooofin/blob/main/assets/juliascope.webp?raw=true" width="120" alt="JuliaScope" /><br>
-      <a href="https://github.com/mooofin/JuliaScope"><b>JuliaScope</b></a><br>
-      <sub>Multithreaded subdomain enumeration in Julia.</sub>
-    </td>
-    <td width="25%" align="center">
-      <img src="https://github.com/mooofin/mooofin/blob/main/assets/ctfs.webp?raw=true" width="120" alt="CTFs" /><br>
-      <a href="https://github.com/mooofin/CTFs"><b>CTFs</b></a><br>
-      <sub>Capture-the-flag writeups and security notes.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="25%" align="center">
-      <img src="https://github.com/mooofin/mooofin/blob/main/assets/aetherion.webp?raw=true" width="120" alt="AETHERION" /><br>
-      <a href="https://github.com/mooofin/Aetherion"><b>AETHERION</b></a><br>
-      <sub>Raycaster engine inspired by DOOM.</sub>
-    </td>
-    <td width="25%" align="center">
-      <img src="https://github.com/mooofin/mooofin/blob/main/assets/ds-anorlondo.webp?raw=true" width="120" alt="DS_AnorLondoLightFix" /><br>
-      <a href="https://github.com/mooofin/DS_AnorLondoLightFix"><b>DS Light Fix</b></a><br>
-      <sub>Lighting restoration and enhancement for Anor Londo.</sub>
-    </td>
-    <td width="25%" align="center">
-      <img src="https://github.com/mooofin/God-of-War-Ragnarok/blob/main/assets/goww.png?raw=true" width="120" alt="God of War Ragnarok" /><br>
-      <a href="https://github.com/mooofin/God-of-War-Ragnarok"><b>God of War Ragnarok</b></a><br>
-      <sub>Cheat Engine scripts for single-player modification.</sub>
-    </td>
-    <td width="25%" align="center">
-      <img src="https://github.com/mooofin/mooofin/blob/main/assets/lune.webp?raw=true" width="120" alt="Clair Obscur" /><br>
-      <a href="https://github.com/mooofin/Clair-Obscur"><b>Clair-Obscur</b></a><br>
-      <sub>Creative project inspired by Clair Obscur.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="25%" align="center">
-      <img src="https://github.com/mooofin/mooofin/blob/main/assets/thalix.webp?raw=true" width="120" alt="Thalix" /><br>
-      <a href="https://github.com/mooofin/Thalix"><b>Thalix</b></a><br>
-      <sub>Process management and memory editing toolkit.</sub>
-    </td>
-    <td width="25%" align="center">
-      <img src="https://github.com/mooofin/mooofin/blob/main/assets/pinimg1.webp?raw=true" width="120" alt="IRAnatomy" /><br>
-      <a href="https://github.com/mooofin/IRAnatomy"><b>IRAnatomy</b></a><br>
-      <sub>LLVM IR snapshots, SSA views, and CFG visualization.</sub>
-    </td>
-    <td width="25%" align="center">
-      <img src="https://github.com/mooofin/mooofin/blob/main/assets/rustflakes.webp?raw=true" width="120" alt="Rustflakes" /><br>
-      <a href="https://github.com/mooofin/Rustflakes"><b>Rustflakes</b></a><br>
-      <sub>Rust and Nix flakes for cross-compilation.</sub>
-    </td>
-    <td width="25%" align="center">
-      <img src="https://github.com/mooofin/mooofin/blob/main/assets/nix-dotfiles.webp?raw=true" width="120" alt="Gentoo-dotfiles" /><br>
-      <a href="https://github.com/mooofin/nix-dotfiles"><b>Gentoo-dotfiles</b></a><br>
-      <sub>Gentoo/NixOS setup with Niri, Hyprland, and Home Manager.</sub>
-    </td>
-  </tr>
-</table>
-
-## Blogs
+## Musings here 
 
 | Date | Post |
 | --- | --- |
@@ -133,9 +20,6 @@ I also work on Dark Souls modding tools and visual restoration projects, includi
 | 2026-02-09 | [A minimal x86 bootloader from scratch](https://mooofin.github.io/portfolio/blog/bootloader.html?latex=1) |
 | 2026-01-26 | [I Use a Gap Buffer, ehe.](https://mooofin.github.io/portfolio/blog/honeymoon.html?latex=1) |
 | 2025-12-29 | [32 Rounds of TEA and Psychological Damage](https://mooofin.github.io/portfolio/blog/tea-and-psychological-damage.html?latex=1) |
-| 2025-12-29 | [How to Make Your Program Spill Tea](https://mooofin.github.io/portfolio/blog/format-string-3.html?latex=1) |
-| 2025-12-29 | [Oops, Your Control Flow Is Mine](https://mooofin.github.io/portfolio/blog/ropfu.html?latex=1) |
-| 2025-12-29 | [Strings Don't Lie, Packers Do](https://mooofin.github.io/portfolio/blog/strings-dont-lie-packers-do.html?latex=1) |
 | 2025-11-14 | [Like Father Like Son - DFIR report](https://mooofin.github.io/portfolio/blog/like-father-like-son.html?latex=1) |
 | 2025-10-28 | [Slay the JIT: From Hotpatches to Symbolic Couture in Miasm](https://mooofin.github.io/portfolio/blog/vmware.html?latex=1) |
 | 2025-09-19 | [Provenance and Purity: Nix programming language & Fixed-Output Flakes](https://mooofin.github.io/portfolio/blog/nixos-flakes.html?latex=1) |
