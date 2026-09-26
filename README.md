@@ -1,7 +1,7 @@
 
 Hi, I’m Siddharth, a CTF player with **[r3kapig](https://ctftime.org/team/58979)** and [L3ak](https://ctftime.org/team/220336/).
 
-I’m a third-year Cyber-Physical Systems student at [Manipal Institute of Technology](https://www.manipal.edu/mit.html), interested in reverse engineering and digital forensics and anti EDR . Outside CTFs, I work on compilers and low-level systems and write .
+I’m a third-year Cyber-Physical Systems student at [Manipal Institute of Technology](https://www.manipal.edu/mit.html), focused on reverse engineering and digital forensics and anti EDR . Outside CTFs, I work on compilers and low-level systems and write .
 
 
 ## Musings here 
