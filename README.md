@@ -29,4 +29,5 @@ Beyond CTFs, I explore **compilers, C++ internals, and low-level systems**.
 | 2025-07-11 | [Gotham Hustle, DFIR report](https://mooofin.github.io/portfolio/blog/gotham-hustle.html?latex=1) |
 | 2025-06-25 | [Onapookkalam / ഓണപ്പൂക്കളം - DFIR report](https://mooofin.github.io/portfolio/blog/onapookkalam.html?latex=1) |
 | 2025-06-09 | [Reverse Engineering Proprietary Havoc Engine File Formats](https://mooofin.github.io/portfolio/blog/havok-engine-reverse-engineering.html?latex=1) |
+| 2024-12-03 | [AFL++ Fuzzing Writeups \| Instrumentation, Crash Analysis, and Memory Safety](https://mooofin.github.io/portfolio/blog/afl-exercises.html?latex=1) |
 | 2024-10-20 | [MemLabs writeups \| Memory Forensics](https://mooofin.github.io/portfolio/blog/memlabs-memory-forensics.html?latex=1) |
