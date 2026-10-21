@@ -1,11 +1,11 @@
 
 Hi, I’m Siddharth, a CTF player with **[r3kapig](https://ctftime.org/team/58979)** and **[L3AK](https://ctftime.org/team/220336/)**, focused on **Memory Forensics & EDR Evasion**.
 
-I’m a third-year Cyber-Physical Systems student at **[Manipal Institute of Technology](https://www.manipal.edu/mit.html)**.
+ Third-year Cyber-Physical Systems student at **[Manipal Institute of Technology](https://www.manipal.edu/mit.html)**.
 
-Beyond CTFs, I explore **compilers, C++ internals, and low-level systems**.
+Beyond CTFs, I explore **compilers and C++ internals**.
 
-## Musings here 
+## Musings 
 
 | Date | Post |
 | --- | --- |
