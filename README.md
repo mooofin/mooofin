@@ -1,9 +1,6 @@
+memory forensics / edr evasion / dfir @ c3ihub IIT Kanpur / ctf: [r3kapig](https://ctftime.org/team/58979), [L3AK](https://ctftime.org/team/220336/) / compilers,program analysis. c++ internals 
 
-Hi, I’m Siddharth, a CTF player with **[r3kapig](https://ctftime.org/team/58979)** and **[L3AK](https://ctftime.org/team/220336/)**, focused on **Memory Forensics & EDR Evasion**.
 
- Third-year Cyber-Physical Systems student at **[Manipal Institute of Technology](https://www.manipal.edu/mit.html)**.
-
-Beyond CTFs, I explore **compilers and C++ internals**.
 
 ## Musings 
 
