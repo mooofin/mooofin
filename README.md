@@ -1,4 +1,4 @@
-memory forensics / edr evasion / dfir @ c3ihub IIT Kanpur / ctf: [r3kapig](https://ctftime.org/team/58979), [L3AK](https://ctftime.org/team/220336/) / compilers,program analysis. c++ internals 
+memory forensics / edr evasion / dfir @ c3ihub IIT Kanpur / ctf's with : [r3kapig](https://ctftime.org/team/58979), [L3AK](https://ctftime.org/team/220336/) / compilers,program analysis,c++ internals 
 
 
 
