@@ -3,10 +3,10 @@
 </p>
 
 <p align="center">
-  memory forensics / edr evasion / dfir-analyst @IIT Kanpur / ctf's with:
+   dfir-analyst @IIT Kanpur / ctf's with:
   <a href="https://ctftime.org/team/58979">r3kapig</a>,
   <a href="https://ctftime.org/team/220336/">L3AK</a>
-  / compilers, program analysis enthusiast
+  / program analysis enthusiast
 </p>
 
 ## Musings 
