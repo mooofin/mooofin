@@ -1,5 +1,13 @@
-memory forensics / edr evasion / dfir-analyst @IIT Kanpur / ctf's with : [r3kapig](https://ctftime.org/team/58979), [L3AK](https://ctftime.org/team/220336/) / compilers,program analysis enthusiast 
+<p align="center">
+  <img src="https://i.imgur.com/g4RILyu.gif" alt="banner" width="700">
+</p>
 
+<p align="center">
+  memory forensics / edr evasion / dfir-analyst @IIT Kanpur / ctf's with:
+  <a href="https://ctftime.org/team/58979">r3kapig</a>,
+  <a href="https://ctftime.org/team/220336/">L3AK</a>
+  / compilers, program analysis enthusiast
+</p>
 
 ## Musings 
 
